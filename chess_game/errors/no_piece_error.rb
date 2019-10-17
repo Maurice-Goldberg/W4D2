@@ -1,0 +1,2 @@
+class NoPieceError < StandardError
+end
